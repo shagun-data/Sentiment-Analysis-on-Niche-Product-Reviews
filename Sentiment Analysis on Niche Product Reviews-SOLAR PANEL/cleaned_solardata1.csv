@@ -1,0 +1,14 @@
+Source,Product/Video Title,Comment/Review Text,Rating,Sentiment,Issues,Additional Details
+YouTube,N/A,"""great video on solar panels, really helpful!""",N/A,Positive,N/A,N/A
+Amazon,Tata Power Solar,"""good product with perfect working condition""",5,Positive,N/A,N/A
+Amazon,Tata Power Solar,"""paisa barbaad company, inverter not working""",1,Negative,Product not working,N/A
+Amazon,Waaree Energies,"""panel of glass is broken, i want return and refund""",3,Negative,Broken panel,N/A
+Amazon,Topcon Bifacial,"""exceptionally good performance, giving 1100 watts at 11 pm""",5,Positive,Good performance,N/A
+Amazon,Topcon Bifacial,"""damaged panel received, i opened the box for installation and it’s damaged""",1,Negative,Damaged product,N/A
+YouTube,N/A,"""can someone explain the difference between mono and poly solar panels?""",N/A,Neutral,N/A,N/A
+YouTube,Tata Power Solar,"""great performance, saves a lot of electricity!""",N/A,Positive,N/A,N/A
+Amazon,Loom Solar,"""paisa barbaad company. inverter not working and no response from customer service.""",1,Negative,Product not working,110 helpful votes
+YouTube,Waaree Energies,"""the panels are quite efficient and durable, very satisfied.""",N/A,Positive,N/A,N/A
+Amazon,Vikram Solar,"""the panel glass broke after just a few days. poor quality.""",3,Negative,Broken panel,"1 helpful vote, image of broken glass"
+YouTube,Adani Solar,"""affordable but not as efficient as i expected.""",N/A,Neutral,N/A,N/A
+Amazon,Tata Power Solar,"""good product, timely delivery, and fine performance.""",5,Positive,N/A,"5-star, 5 helpful votes"
