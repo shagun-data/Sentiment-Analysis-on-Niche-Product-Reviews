@@ -1,0 +1,6 @@
+![Figure_4](https://github.com/user-attachments/assets/db6024e6-25db-48d4-89ef-c70292cabbfc)
+![Figure_3](https://github.com/user-attachments/assets/639577c4-16ee-478f-b85a-ee093c8d896b)
+![Figure_2](https://github.com/user-attachments/assets/4ccb6d7b-6fcf-4020-a4b0-5ac9cae366c5)
+![Figure_1 bar chart](https://github.com/user-attachments/assets/299b39b2-b74d-449c-9a39-e1a437bc61e1)
+[processed_solar_data.csv](https://github.com/user-attachments/files/16973453/processed_solar_data.csv)
+[cleaned_solardata1.csv](https://github.com/user-attachments/files/16973451/cleaned_solardata1.csv)
